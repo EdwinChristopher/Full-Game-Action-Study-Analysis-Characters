@@ -2,6 +2,10 @@
 ## Request from link to open the folde
 Language: Indonesian. It has a save data with chart for your performance analysis. It has many mini games(Logic, question, fun), It's main progress is to grow your status to get a good ending. Status can be get by study, interacting with character, sleep, etc(there is tutorial inside).
 ## It Has many Scenes and Fitures
+Charaacters has happy mode and angry mode
+You can get scolded by your mom
+You can passed out
+etc
 ## Sneak-peek
 
 ![Screenshot 2024-10-26 021457](https://github.com/user-attachments/assets/ca3520eb-34a1-4d08-86b7-8afd6d325840)
