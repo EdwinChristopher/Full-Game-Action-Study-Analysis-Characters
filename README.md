@@ -1,5 +1,10 @@
 # Full-Game-Action-Study-Analysis-Characters
 ## Request from link to open the folde
+
+
+https://drive.google.com/drive/folders/1-X7M3ZCrd9cZmQCGj2scqtmd_QiIvfzF?usp=sharing
+
+
 Language: Indonesian. It has a save data with chart for your performance analysis. It has many mini games(Logic, question, fun), It's main progress is to grow your status to get a good ending. Status can be get by study, interacting with character, sleep, etc(there is tutorial inside).
 ## It Has many Scenes and Fitures
 Charaacters has happy mode and angry mode
