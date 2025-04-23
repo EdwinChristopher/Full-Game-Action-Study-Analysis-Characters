@@ -9,7 +9,7 @@ Language: Indonesian. It has a save data with chart for your performance analysi
 ## It Has many Scenes and Fitures
 It Has Sound
 
-Charaacters has happy mode and angry mode
+Characters have happy mode and angry mode
 
 You can get scolded by your mom
 
