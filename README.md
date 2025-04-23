@@ -4,6 +4,8 @@ Language: Indonesian. It has a save data with chart for your performance analysi
 ## It Has many Scenes and Fitures
 ## Sneak-peek
 
+![Screenshot 2024-10-26 021457](https://github.com/user-attachments/assets/ca3520eb-34a1-4d08-86b7-8afd6d325840)
+![Screenshot 2024-10-26 021501](https://github.com/user-attachments/assets/095109f9-ae7f-414c-8714-37703bcb981b)
 ![Screenshot 2024-10-26 000415](https://github.com/user-attachments/assets/63d0a9ae-0529-4ecc-a871-3058d70c52fd)
 ![Screenshot 2024-10-26 000452](https://github.com/user-attachments/assets/46ca2e30-c0ba-4b4c-99ab-08a68f54d4b0)
 ![Screenshot 2024-10-26 000456](https://github.com/user-attachments/assets/f432a0bb-6301-4941-bc22-d83d3ea9d7c3)
